@@ -1,0 +1,22 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "clsx": "latest",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@material-ui/icons": "^4.9.1"
+  }
+}
