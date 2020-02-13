@@ -6,7 +6,7 @@ import Button from '@material-ui/core/Button';
 
 import Link from '../src/components/Link';
 import ProTip from '../src/components/ProTip';
-import Copyright from '../src/components/Copyright';
+import Copyright from '../src/components/footer/Copyright';
 
 const About = () => (
   <Container maxWidth='sm'>
